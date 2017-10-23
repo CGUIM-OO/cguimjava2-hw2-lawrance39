@@ -28,7 +28,7 @@ public class HW2 {
 	 * This method is used for checking your result, not a part of your HW2
 	 * @param allCards 所有的牌
 	 * @param nDeck 總共有幾副牌
-	 * @return
+	 * @return testtttttttttt
 	 */
 	private static boolean isAllCardsCorrect(ArrayList<Card> allCards,int nDeck){
 		//check the output 
